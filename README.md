@@ -2,6 +2,10 @@
 
 This folder contains the required Wacom SigCaptX service installer and sample HTML test pages for the STU-430 signature pad.
 
+## Credits
+
+This project uses sample code and SDK components from Wacom's SigCaptX / STU developer tooling. Credit to Wacom and the Wacom Developers community, including the Wacom Developers GitHub repository: https://github.com/wacom-developers
+
 ## 1) Install the SigCaptX service
 
 IMPORTANT:
